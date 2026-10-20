@@ -1,7 +1,5 @@
 # ArticleApp
 
-# Articles App
-
 A native iOS article browsing app built with Swift, UIKit, and SwiftUI.
 It fetches article data from a JSON endpoint, shows articles in grid or
 list layouts, and opens a detail screen with the selected article's
@@ -270,6 +268,11 @@ implemented in the project.
 
 The Mocki endpoint is a development/mock data source and may change or
 become unavailable.
+
+## Images
+<img width="1359" height="902" alt="Frame 162605" src="https://github.com/user-attachments/assets/a0509f01-d56c-479c-887b-9e4b5fd80492" />
+
+
 
 ## License
 
